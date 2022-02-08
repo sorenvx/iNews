@@ -79,13 +79,13 @@
 		7B28CDF727B1911600C69C62 /* iNews */ = {
 			isa = PBXGroup;
 			children = (
+				7B28CDF827B1911600C69C62 /* AppDelegate.swift */,
+				7B28CDFA27B1911600C69C62 /* SceneDelegate.swift */,
 				7B28CE2527B1E47100C69C62 /* Extensions */,
 				7B28CE1027B195E300C69C62 /* Communications */,
 				7B28CE0F27B195DB00C69C62 /* Model */,
 				7B28CE1227B195F600C69C62 /* Presenter */,
 				7B28CE2227B1CEB100C69C62 /* UI */,
-				7B28CDF827B1911600C69C62 /* AppDelegate.swift */,
-				7B28CDFA27B1911600C69C62 /* SceneDelegate.swift */,
 				7B28CDFE27B1911600C69C62 /* Main.storyboard */,
 				7B28CE0427B1911A00C69C62 /* Assets.xcassets */,
 				7B28CE0627B1911A00C69C62 /* LaunchScreen.storyboard */,

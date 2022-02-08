@@ -7,7 +7,7 @@
 
 import Foundation
 
-struct Result: Decodable {
+struct Result: Codable {
         var status: String
         var totalResults: Int
         var articles: [Article]

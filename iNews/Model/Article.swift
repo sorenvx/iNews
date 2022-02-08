@@ -13,7 +13,6 @@ struct Article: Codable {
     var articleDescription: String?
     var publishedAt: Date
  
-
     enum CodingKeys: String, CodingKey {
         case articleDescription = "description"
         case title
